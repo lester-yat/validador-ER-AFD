@@ -1,0 +1,8 @@
+.vs
+.idea
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.ide
+*.sln.cache
